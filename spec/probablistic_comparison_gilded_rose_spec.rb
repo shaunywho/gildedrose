@@ -1,5 +1,5 @@
-require "gilded_rose_refactored"
 require "gilded_rose"
+require "gilded_rose_old"
 require "deep_clone"
 
 

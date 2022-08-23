@@ -1,5 +1,5 @@
 
-require 'gilded_rose_refactored'
+require 'gilded_rose'
 
 describe GildedRose do
 
